@@ -1,7 +1,7 @@
 # PHANTOM DEPTH / SHARK
 
-> Single-file offensive WiFi toolkit for the AWUS036ACH (RTL8812AU).
-> Linux-native. Self-contained. No external brain module.
+> Offensive WiFi toolkit for the AWUS036ACH (RTL8812AU).
+> Linux-native.
 
 ## Why this exists
 
