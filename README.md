@@ -1,9 +1,7 @@
-# PHANTOM DEPTH / SHARK
+# ALFA AWUS036ACH
 
 > Offensive WiFi toolkit for the AWUS036ACH (RTL8812AU).
 > Linux-native.
-
-## Why this exists
 
 Most off-the-shelf WiFi auditing tools either ship as fragmented CLI one-liners (`aircrack-ng`, `mdk4`, `reaver`, etc.) or as heavy frameworks that assume a perfect environment.
 
